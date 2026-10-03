@@ -56,7 +56,7 @@ Compares sales performance across major retailers such as:
 - Amazon
 - Walmart
 ## 📷 Dashboard Preview
-![Adidas Sales Dashboard](Dashboard/Adidas_Sales_Dashboard.png)
+[![Adidas Sales Dashboard](Overview_Dashboard.png)](Overview_Dashboard.png)
 ## 📂 Project Structure
 ```text
 adidas-sales-analysis-powerbi/
